@@ -1,8 +1,5 @@
 # Creating a Customer Feedback Analysis tool
 
-### Group Member Names
-Abhiram Naredla, Srihith Duggi, Veer Patel, Riya Lodha
-
 ### Goal of the Project:
 Our goal is to develop an NLP based machine learning model that can analyze large volumes of food reviews and extract valuable insights that can aid businesses in decision making. By applying techniques like sentiment analysis and topic modeling, our system will allow businesses to monitor customer sentiment scores and satisfaction levels for various products in the dataset - It will automatically identify key product attributes that are mentioned repeatedly in the dataset and highlight strengths that customers appreciate as well as areas that need improvement based on negative sentiments. Essentially, we aim to build a comprehensive NLP/ML model that will serve as a customer feedback analysis tool and allow businesses to analyze their customer reviews to eventually pinpoint areas of improvement, tailor product strategy and enhance customer satisfaction.
 
